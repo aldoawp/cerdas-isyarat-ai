@@ -1,0 +1,9 @@
+# Core dependencies for Cerdas Isyarat BISINDO Recognition
+numpy
+pandas
+scikit-learn
+imgaug
+mediapipe
+onnx
+Pillow
+tqdm
