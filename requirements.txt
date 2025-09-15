@@ -1,5 +1,5 @@
 # Core dependencies for Cerdas Isyarat BISINDO Recognition
-numpy
+numpy<1.24.0
 pandas
 scikit-learn
 imgaug
@@ -7,3 +7,5 @@ mediapipe
 onnx
 Pillow
 tqdm
+opencv-python
+matplotlib

@@ -1,0 +1,14 @@
+{
+  "landmarks_shape": [
+    939,
+    126
+  ],
+  "labels_shape": [
+    939
+  ],
+  "num_classes": 26,
+  "landmarks_per_hand": 21,
+  "coordinates_per_landmark": 3,
+  "total_features_per_hand": 63,
+  "total_features": 126
+}

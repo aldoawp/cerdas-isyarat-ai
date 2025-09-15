@@ -1,0 +1,8 @@
+{
+  "total_images": 1300,
+  "successful_extractions": 939,
+  "failed_extractions": 361,
+  "single_hand_detections": 672,
+  "dual_hand_detections": 267,
+  "no_hand_detections": 361
+}

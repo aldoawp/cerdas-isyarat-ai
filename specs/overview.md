@@ -12,7 +12,7 @@ Cerdas Isyarat is an interactive web application designed to help children learn
 **Here's the workflow of the project:**
 
 - Load the dataset and preprocess the images
-- Augment the images using imgaug with 50 images each
+- Augment the images using imgaug with 50 images for each Alphabet
 - Extract hand landmarks from the images using mediapipe
 - Extract features from the hand landmarks
 - Train and evaluate machine learning models
