@@ -1,5 +1,5 @@
 dataset/raw/
-dataset/01_augmented/
+dataset/processed/01_augmented/
 specs/
 
 # Byte-compiled / optimized / DLL files
