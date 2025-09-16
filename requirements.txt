@@ -5,6 +5,8 @@ scikit-learn
 imgaug
 mediapipe
 onnx
+skl2onnx
+onnxruntime
 Pillow
 tqdm
 opencv-python
